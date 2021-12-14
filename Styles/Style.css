@@ -162,14 +162,14 @@ footer p {
 
 .card img {
     border-radius: 25px;
-    padding: 10px;
-    height: 65%;
-    width: 100%;
+    padding-top: 10px;
+    height: 60%;
+    width: 75%;
 }
 
 .card-body{
     text-align: center;
-    height: 35%;
+    height: 40%;
 }
 
 
